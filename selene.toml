@@ -1,0 +1,3 @@
+# Roblox std covers everything in src/. Lune builtins in tests/ and tools/ are always
+# require()d into locals (never used as globals), so the Roblox std suffices for both.
+std = "roblox"

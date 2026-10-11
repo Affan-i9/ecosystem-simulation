@@ -1,0 +1,4 @@
+indent_type = "Tabs"
+quote_style = "AutoPreferDouble"
+column_width = 100
+call_parentheses = "Always"
